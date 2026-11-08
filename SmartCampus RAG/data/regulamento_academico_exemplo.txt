@@ -1,0 +1,26 @@
+REGULAMENTO ACADÊMICO - CURSO DE ENGENHARIA DE SOFTWARE E CIÊNCIA DA COMPUTAÇÃO
+Ano Letivo: 2026
+
+1. CRITÉRIOS DE AVALIAÇÃO E FREQUÊNCIA
+1.1. A frequência mínima obrigatória para aprovação em qualquer componente curricular é de 75% (setenta e cinco por cento) da carga horária ministrada.
+1.2. O aluno que obtiver frequência inferior a 75% será considerado reprovado por falta (RF), independentemente da média obtida nas notas.
+1.3. A média semestral (MS) é composta por:
+   - Avaliação Teórica (AV1): peso 4,0
+   - Avaliação Prática / Projeto RAG (AV2): peso 4,0
+   - Atividades Contínuas e Seminários (AC): peso 2,0
+1.4. É considerado aprovado direto o estudante que atingir média semestral (MS) igual ou superior a 7,0 (sete inteiros).
+1.5. Estudantes com média semestral entre 4,0 e 6,9 têm direito a realizar o Exame Final (EF). A média após exame deve ser de no mínimo 5,0 para aprovação.
+
+2. TRABALHO DE CONCLUSÃO DE CURSO (TCC) E ESTÁGIO SUPERVISIONADO
+2.1. A carga horária mínima exigida para o Estágio Curricular Obrigatório é de 300 horas, devendo ser iniciado a partir do 6º semestre letivo.
+2.2. O TCC é dividido em TCC I (Projeto de Pesquisa e Proposta) no 7º semestre e TCC II (Implementação, Monografia e Defesa perante banca examinadora) no 8º semestre.
+2.3. A entrega da versão final do TCC com as correções da banca deve ocorrer em até 30 dias corridos após a defesa.
+
+3. REGRAS PARA ATIVIDADES COMPLEMENTARES
+3.1. O aluno deve cumprir um total de 200 horas em Atividades Complementares ao longo de todo o curso.
+3.2. São aceitas participações em congressos, semanas acadêmicas, cursos de extensão, publicações científicas e projetos de iniciação científica (PIBIC).
+3.3. Cada certificado de curso livre de tecnologia confere até 20 horas complementares, com limite máximo de 60 horas para essa modalidade.
+
+4. BIBLIOTECA E SERVIÇOS DIGITAIS
+4.1. O empréstimo de livros do acervo geral tem prazo de 7 dias úteis para alunos de graduação, renovável por igual período se não houver reserva.
+4.2. O laboratório de Inteligência Artificial e Ciência de Dados fica disponível de segunda a sexta, das 08h às 22h, mediante agendamento prévio com a coordenação de curso.
